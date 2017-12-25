@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/main_rlv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <CheckBox
+            android:id="@+id/cart_foot_box"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:text=" 全选" />
+
+        <TextView
+            android:id="@+id/cart_foot_totalPrice"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="#ff5000"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="结算（）"
+            android:textColor="#FFF"
+            android:textSize="16dp"
+            android:layout_width="120dp" />
+
+        <TextView
+            android:id="@+id/cart_foot_totalCount"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@id/cart_foot_totalPrice"
+            android:layout_toStartOf="@id/cart_foot_totalPrice"
+            android:gravity="center_vertical"
+            android:text="合计"
+            android:layout_width="80dp" />
+    </RelativeLayout>
+</LinearLayout>

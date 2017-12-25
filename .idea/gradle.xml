@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Settings" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/huayuan" />
+            <option value="$PROJECT_DIR$/propertyanimator" />
+            <option value="$PROJECT_DIR$/xie_20171205" />
+            <option value="$PROJECT_DIR$/xie_20171206" />
+            <option value="$PROJECT_DIR$/xie_20171207" />
+            <option value="$PROJECT_DIR$/xie_20171208" />
+            <option value="$PROJECT_DIR$/xie_20171212" />
+            <option value="$PROJECT_DIR$/xie_20171220" />
+            <option value="$PROJECT_DIR$/xie_201771213" />
+            <option value="$PROJECT_DIR$/xiehaojia_20171204" />
+            <option value="$PROJECT_DIR$/xiehaojia_20171211" />
+            <option value="$PROJECT_DIR$/xiehaojia_20171219" />
+            <option value="$PROJECT_DIR$/xiehaojia_20171220" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

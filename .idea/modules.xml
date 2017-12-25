@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication6.iml" filepath="$PROJECT_DIR$/MyApplication6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Settings/Settings.iml" filepath="$PROJECT_DIR$/Settings/Settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huayuan/huayuan.iml" filepath="$PROJECT_DIR$/huayuan/huayuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimator/propertyanimator.iml" filepath="$PROJECT_DIR$/propertyanimator/propertyanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171205/xie_20171205.iml" filepath="$PROJECT_DIR$/xie_20171205/xie_20171205.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171206/xie_20171206.iml" filepath="$PROJECT_DIR$/xie_20171206/xie_20171206.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171207/xie_20171207.iml" filepath="$PROJECT_DIR$/xie_20171207/xie_20171207.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171208/xie_20171208.iml" filepath="$PROJECT_DIR$/xie_20171208/xie_20171208.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171212/xie_20171212.iml" filepath="$PROJECT_DIR$/xie_20171212/xie_20171212.iml" />
+      <module fileurl="file://C:\Users\lenovo\AndroidStudioProjects\MyApplication6\Settings\xie_20171214.iml" filepath="C:\Users\lenovo\AndroidStudioProjects\MyApplication6\Settings\xie_20171214.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_20171220/xie_20171220.iml" filepath="$PROJECT_DIR$/xie_20171220/xie_20171220.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xie_201771213/xie_201771213.iml" filepath="$PROJECT_DIR$/xie_201771213/xie_201771213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiehaojia_20171204/xiehaojia_20171204.iml" filepath="$PROJECT_DIR$/xiehaojia_20171204/xiehaojia_20171204.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiehaojia_20171211/xiehaojia_20171211.iml" filepath="$PROJECT_DIR$/xiehaojia_20171211/xiehaojia_20171211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiehaojia_20171219/xiehaojia_20171219.iml" filepath="$PROJECT_DIR$/xiehaojia_20171219/xiehaojia_20171219.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiehaojia_20171220/xiehaojia_20171220.iml" filepath="$PROJECT_DIR$/xiehaojia_20171220/xiehaojia_20171220.iml" />
+    </modules>
+  </component>
+</project>
